@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="GitHub Stats" align="right" src="https://github-readme-stats.vercel.app/api?username=mantis&show_icons=true&theme=default&hide_title=true" />
+
 <!--
 **mantis/mantis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
